@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shannel coulin lopez Catuin</h1>
+<h1 align="center">Hi 👋, I'm Shannel Catulin</h1>
 <h3 align="center">A person who likes coding.</h3>
 
 - 📫 How to reach me **shannesyphrox@gmail.com**
