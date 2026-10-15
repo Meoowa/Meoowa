@@ -1,26 +1,19 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Shannel%20Catulin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20%7C%20Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Shannel%20Catulin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Web%20and%20Mobile%20Developer&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://github.com/Meoowa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B+I'm+Shannel;I+build+with+Laravel+%26+React;I+ship+mobile+apps+with+Flutter;I+love+turning+designs+into+code" alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Hi+there!+I'm+Shannel;I+build+with+Laravel+and+React;I+ship+mobile+apps+with+Flutter;I+love+turning+designs+into+code" alt="typing animation" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meoowa&label=Profile%20views&color=7aa2f7&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Meoowa?label=Followers&style=flat-square&color=bb9af7" alt="followers" />
-</p>
-
----
-
 ## 👩‍💻 About Me
 
-- 🔭 Currently working on: **[your current project]**
-- 🌱 Currently learning: **[something you're picking up]**
+- 🔭 Currently working on: 
+- 🌱 Currently learning:
 - 💼 Web apps with **Laravel, PHP, and React** · Mobile apps with **Flutter**
 - 🎨 I like turning Figma designs into clean, responsive interfaces
 - 📫 Reach me at **shannesyphrox@gmail.com**
@@ -91,8 +84,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meoowa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meoowa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
+  <img height="170" src="https://githubreadmestatsfast.vercel.app/api?username=Meoowa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=Meoowa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
