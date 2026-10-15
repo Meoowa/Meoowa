@@ -3,13 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Shannel%20Catulin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Web%20and%20Mobile%20Developer&descAlignY=58&descSize=18" alt="header" />
 </p>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <a href="https://github.com/Meoowa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Hi+there!+I'm+Shannel;I+build+with+Laravel+and+React;I+ship+mobile+apps+with+Flutter;I+love+turning+designs+into+code" alt="typing animation" />
-  </a>
-</p>
-
 ## 👩‍💻 About Me
 
 - 🔭 Currently working on: 
@@ -71,26 +64,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**Project Name**](https://github.com/Meoowa/repo-name) | One sentence on what it does and who it's for | `Laravel` `MySQL` |
-| [**Project Name**](https://github.com/Meoowa/repo-name) | One sentence on what it does and who it's for | `React` `Node.js` |
-| [**Project Name**](https://github.com/Meoowa/repo-name) | One sentence on what it does and who it's for | `Flutter` `Firebase` |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://githubreadmestatsfast.vercel.app/api?username=Meoowa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=Meoowa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meoowa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meoowa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
